@@ -33,11 +33,11 @@ h2,
 h3 {
   text-align: center;
   margin: 0;
-  color: green;
 }
 
 h1 {
   font-size: 96px;
+  text-align: center;
 }
 
 h2 {
